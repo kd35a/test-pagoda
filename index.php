@@ -12,7 +12,7 @@
 		</p>
 		<p>
 			<?php
-			echo date("y-m-d HH:ii:ss");
+			echo date("y-m-d H:i:s");
 			?>
 		</p>
 	</body>
